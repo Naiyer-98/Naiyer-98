@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Forkify**
 
-- 🌱 I have completed  **Core Java,JDBC, Hibernate, Spring, SpringBoot, React-js,SQL**
+- 🌱 I have completed  **Core Java,JDBC, Hibernate, Spring, SpringBoot, React-js, SQL**
 
 - 📫 How to reach me **naiyersalahuddin09@gmail.com**
 
